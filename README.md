@@ -17,3 +17,5 @@
 ## Fase_2
 
 - [Presentación de Tecnica por Equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Presentacion_MaquinadeSoporteVectorial_Equipo7.pdf)
+
+- [Preguntas de Tecnica por Equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Preguntas_MaquinadeSoporteVectorial_Equipo7.pdf)
