@@ -13,3 +13,7 @@
 - [Ejercicio Limpieza de Datos](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo7.ipynb)
 
 - [Primera Entrega del PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo7.ipynb)
+
+## Fase_2
+
+- [Presentación de Tecnica por Equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Presentacion_MaquinadeSoporteVectorial_Equipo7.pdf)
